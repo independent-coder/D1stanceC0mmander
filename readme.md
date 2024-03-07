@@ -55,9 +55,8 @@ Make sure to set up your `.env` file with the following configurations:
 ```dotenv
 TOKEN=your_discord_bot_token
 ALLOWED_SERVER_ID=your_allowed_server_id
-
+```
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.txt file for details.
-```
