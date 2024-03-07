@@ -4,6 +4,8 @@ __pycache__/
 
 # Ignore virtual environment
 venv/
+# Ignore dotenv
+.env
 
 #Ignore token
 token.txt
