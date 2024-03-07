@@ -1,6 +1,6 @@
 # -----------------------------------
 #                                   |
-#        MADE BY $*P!NGU1*$         |
+#        MADE BY P!NGU1             |
 #       D1stance C0mmander V1       |
 # -----------------------------------
 
@@ -25,7 +25,7 @@ TOKEN = os.getenv('TOKEN')
 ALLOWED_SERVER_ID = int(os.getenv('ALLOWED_SERVER_ID'))
 
 # Constants
-MADE_BY_TEXT = "MADE BY $*P!NGU1*$"
+MADE_BY_TEXT = "MADE BY P!NGU1"
 
 bot = commands.Bot(command_prefix='!', intents=intents)
 
