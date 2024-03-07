@@ -104,6 +104,6 @@ My name is pingui_8163.
 
 This project is licensed under the MIT License - see the [LICENSE.txt](https://github.com/independent-coder/D1stanceC0mmander/blob/main/LICENSE.txt) file for details
 
-## Made by P1NGU!
+## Made by P1NGU!(independent-coder)
 
 In Python using [Discord.py](https://discordpy.readthedocs.io/en/stable/) and Pycharm.
